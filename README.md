@@ -75,5 +75,4 @@
   - Provide real-time feedback for booking and payment processes.
 
 ---
-
-This breakdown ensures both admin and clients have clear, role-specific functionality. Let me know if you want further refinements!
+ 
